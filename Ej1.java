@@ -16,7 +16,7 @@ public class Ej1{
 
 /*condiciones*/
 
-    if(numescogido == nsecreto){
+    if(numescogido == numerosecreto){
         System.out.println("Correcto!");
     }
     else{
