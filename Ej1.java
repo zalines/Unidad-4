@@ -21,8 +21,9 @@ public class Ej1{
     else{
         System.out.println("Respuesta Incorrecta, intentelo denuevo");
     }
+
+    /*cerrar Scanner */
     sc.close();
 
-    System.out.print("Buenos dias");
 }
 }
