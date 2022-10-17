@@ -6,16 +6,16 @@ public class Ej1{
 
         /*Estos son las variables */
 
-    int nsecreto= 241; int num;
+    int numerosecreto= 241; int numescogido;
 
     /*Esto es lo que va salir en pantalla*/
 
     System.out.println("Adivina cual es el numero secreto: ");
-    num= sc.nextInt();
+    numescogido= sc.nextInt();
 
 /*condiciones*/
 
-    if(num == nsecreto){
+    if(numescogido == nsecreto){
         System.out.println("Correcto!");
     }
     else{
