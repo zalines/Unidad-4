@@ -24,7 +24,12 @@ public class Ej1{
     }
 
     /*cerrar Scanner */
-    sc.close();
+     
+    System.out.println("Se acabo el prgrama");
+    
+     sc.close();
+
+   
 
 }
 }
