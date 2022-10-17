@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Ej1{
     public static void main(String[] args) {
+        /*abrimos escaner */
         Scanner sc = new Scanner(System.in);
 
         /*Estos son las variables */
